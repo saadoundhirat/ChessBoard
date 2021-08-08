@@ -2,7 +2,7 @@
 chess-board is a simple chess board game where you can build 8*8 grid then add the chess pieces to the board, which is two queens in our case then we can play the game to check if the queens are safe or not.
 
 # Submission_PR:
-[]()
+[](https://github.com/saadoundhirat/ChessBoard/compare/chess-board?expand=1)
 
 
 # **Chess_Board lab info:**
